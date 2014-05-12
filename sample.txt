@@ -1,3 +1,4 @@
+
 Hello, Git!!!!!!!!!!!!!
 aaaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbbb
@@ -9,3 +10,5 @@ ggggggggggggggggggggggg
 test
 ‚ ‚¢‚¤‚¦‚¨
 ‚©‚«‚­‚¯‚±
+
+ABCDEFG
